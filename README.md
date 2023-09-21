@@ -1,7 +1,5 @@
 ### Hello 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a daily expense tracker to help people keep on top of their finances 
 - 🌱 I’m currently learning JavaScript and Cybersecurity on Codecademy
 - 👯 I’m looking to collaborate on projects to assist people with technology
