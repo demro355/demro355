@@ -1,7 +1,7 @@
 ### Hello 👋
 
 - 🔭 I’m a MSc Information Technology graduate currently looking for my first role as a Software Engineer
-- 🌱 I am currently studying C# on Codecademy
+- 🌱 I am currently studying React on Codecademy
 - 👯 I’m looking to collaborate on projects to assist people with technology
 - 🤔 I’m looking for help with mentorship
 - 💬 Ask me about music
